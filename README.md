@@ -1,2 +1,4 @@
 # ai-agent-project
-i used ollama model for this project 
+1. Install Ollama
+2. Pull model: ollama pull llama3
+3. Run python ai_agent.py
